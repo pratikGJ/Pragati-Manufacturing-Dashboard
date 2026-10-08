@@ -1,5 +1,4 @@
-# Pragati-Manufacturing-Dashboard
-Pragati Manufacturing Dashboard | Power BI, SQL, Data Analytics  Built a comprehensive manufacturing analytics dashboard to monitor shop-floor operations, production throughput, and machine efficiency (OEE). Features include real-time tracking of line yield, downtime categorization, defect analysis, and inventory flow.
+
 # Pragati Manufacturing Dashboard
 
 An end-to-end data visualization and operational analytics solution designed to monitor shop-floor performance, maximize machine efficiency, and streamline manufacturing throughput. This repository contains the interactive dashboard files, data processing scripts, and a realistic manufacturing dataset.
